@@ -1,13 +1,16 @@
 # Overview
 This sample is intended for IBM Bluemix developers interested in creating applications that leverage the Insights for Twitter service. A working demo of this app is available at [https://cdetestapp.mybluemix.net/](https://cdetestapp.mybluemix.net/).
 
+<a href="url"><img src="https://github.com/rkung-ibm/sample-cdetestapp/blob/master/public/images/cdetestapp_ui.jpg" align="right" height="300"></a>
+
+
 For details on the Insights for Twitter service on Bluemix, visit IBM Bluemix and review the [getting started documentation](https://console.ng.bluemix.net/docs/services/Twitter/index.html#twitter).
 
 ## Contents
-IBM Bluemix provides a Node.js starter application as a template so that you can add your code and push the changes back to the Bluemix environment. The Node.js starter application includes the following files:
+This sample app used an IBM Bluemix Node.js starter template. The Node.js starter application includes the following files:
 
 *   app.js
-This file contains the server side JavaScript code for your application written using the Node.js API
+This file contains the server side JavaScript code for your application written using the Node.js API.
 
 *   public/
 This directory contains public resources of the application. It is required by the express framework in this sample application.
