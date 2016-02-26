@@ -1,8 +1,7 @@
 # Overview
 This sample is intended for IBM Bluemix developers interested in creating applications that leverage the Insights for Twitter service. A working demo of this app is available at [https://cdetestapp.mybluemix.net/](https://cdetestapp.mybluemix.net/).
 
-<a href="url"><img src="https://github.com/rkung-ibm/sample-cdetestapp/blob/master/public/images/cdetestapp_ui.jpg" align="right" height="300"></a>
-
+<p><a href="https://cdetestapp.mybluemix.net/"><img src="https://github.com/rkung-ibm/sample-cdetestapp/blob/master/public/images/cdetestapp_ui.jpg" alt="cdetestapp interface" ></a></p>
 
 For details on the Insights for Twitter service on Bluemix, visit IBM Bluemix and review the [getting started documentation](https://console.ng.bluemix.net/docs/services/Twitter/index.html#twitter).
 
